@@ -10,7 +10,7 @@ module.exports = {
     discord: {
         token: 'ODgyOTIwNTAxMDkyMTc1OTA1.YTCZyw.wPHHhYwK89-xlq_Vd7wXCCusf-0',
         prefix: 'm?',
-        activity: 'Music | Prefix m?',
+        activity: 'Music | Prefix m? | Made by: Mr Gamingtor#1971',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
