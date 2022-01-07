@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODgyOTIwNTAxMDkyMTc1OTA1.YTCZyw.wPHHhYwK89-xlq_Vd7wXCCusf-0',
+        token: 'ODgyOTIwNTAxMDkyMTc1OTA1.YTCZyw.9_Tyhu-NQC9bPrJnDXfIEeZq5Zg',
         prefix: 'm?',
         activity: 'Music | Prefix m? | Made by: Mr Gamingtor#1971',
     },
